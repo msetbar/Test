@@ -17,6 +17,7 @@ Global
 		{EEEEEEEE-32AF-42B7-B9DF-9511EAF60EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE9043C9-32AF-42B7-B9DF-9511EAF60EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE9043C9-32AF-42B7-B9DF-9511EAF60EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEV-32AF-42B7-B9DF-9511EAF60EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE9043C9-32AF-42B7-B9DF-9511EAF60EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
